@@ -30,7 +30,7 @@ npm run start
 
 ## Testing
 
-Access Swagger UI at `http://localhost:8083/docs` for interactive API testing.
+Access Swagger UI at `http://localhost:8083/doc` for interactive API testing.
 
 ## API Usage
 
